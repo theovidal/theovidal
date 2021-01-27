@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome there ✌
 
-<!--
-**theovidal/theovidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Théo, I'm a french student 🥖 and I'm studying mathematics and engineering. On my free time, I climb, practice twisty puzzles (Rubik's Cube) and code various projects! I'm also interested in AI and machine learning 🧠
 
-Here are some ideas to get you started:
+My main programming languages are **Golang**, **Ruby**, **JavaScript** (with **Vue.js**), and I use Windows and Linux (Raspberry Pi).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Regarding my coding activity, my main projects are:
+
+- A climbing app called **[Highest](https://highest.netlify.app)** to track your activity
+- The website and other stuff on the **[BecauseOfProg](https://becauseofprog.fr)**, a developers team I founded in 2017
+- **Discord and Telegram bots** for utilities and games
+- Various things for school and my personal learning
+
+Feel free to contact me via my [email](mailto:exybore@becauseofprog.fr), [Twitter](https://twitter.com/exybore) or [Telegram](https://t.me/theovidal)! 😉
