@@ -11,4 +11,6 @@ Regarding my coding activity, my main projects are:
 - **Discord and Telegram bots** for utilities and games
 - Various things for school and my personal learning
 
+If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/theovidal)! ☕ *(or whatever you want in fact)*
+
 Feel free to contact me via my [email](mailto:theo@becauseofprog.fr), [Twitter](https://twitter.com/theovlld) or [Telegram](https://t.me/theovld)! 😉
