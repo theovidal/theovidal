@@ -4,7 +4,7 @@ My name is Théo, I'm a french student 🥖 and I'm studying mathematics and eng
 
 My main programming languages are **Golang**, **Ruby**, **JavaScript** (with **Vue.js**), and I use Windows and Linux (Raspberry Pi).
 
-Regarding my coding activity, my main projects are:
+Regarding my coding activity, I keep [many repositories](https://github.com/theovidal?tab=repositories&type=source), among which my main projects are:
 
 - A climbing app called **[Highest](https://highest.netlify.app)** to track your activity
 - The website and other stuff on the **[BecauseOfProg](https://becauseofprog.fr)**, a developers team I founded in 2017
