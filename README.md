@@ -11,6 +11,6 @@ Regarding my coding activity, I keep [many repositories](https://github.com/theo
 - **Discord and Telegram bots** for utilities and games
 - Various things for school and my personal learning
 
-If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/theovidal)! ☕ *(or whatever you want in fact)*
+If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/theovidal) ☕ or [invest on BitClout](https://bitclout.com/u/theovld)!
 
 Feel free to contact me via my [email](mailto:theo@becauseofprog.fr), [Twitter](https://twitter.com/theovlld) or [Telegram](https://t.me/theovld)! 😉
