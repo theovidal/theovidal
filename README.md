@@ -13,4 +13,4 @@ Regarding my coding activity, I keep [many repositories](https://github.com/theo
 
 If you like my work, you can [buy me a coffee](https://www.buymeacoffee.com/theovidal) ☕
 
-Feel free to contact me via my [email](mailto:theo@becauseofprog.fr), [LinkedIn](https://linkedin.com/in/theovidal) or [Telegram](https://t.me/theovld)! 😉
+Feel free to contact me via my [email](mailto:theo.vidal@ensta-paris.fr), [LinkedIn](https://linkedin.com/in/theovidal) or [Telegram](https://t.me/theovld)! 😉
