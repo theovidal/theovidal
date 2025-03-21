@@ -8,6 +8,7 @@ I keep [many repositories](https://github.com/theovidal?tab=repositories&type=so
 
 - 💻 Machine Learning projects: [climbing routes classification](https://github.com/theovidal/beta-project) 🧗‍♂️, [water shortages prediction](https://github.com/theovidal/hickathon) (Hackathon) 💧 and [frugal AIs](https://github.com/theovidal/frugal-ai-challenge) 🍃
 - 🍯 A [numerical analysis of dripping honey](https://github.com/theovidal/ipt-bouncing-honey), to conduct physics research for the [International Physicists' Tournament](https://iptnet.info)
+- 📣 Experiments and simulations to [characterise and improve room acoustics](https://github.com/theovidal/room-acoustics)
 - 🔭 Physics simulations: [solid mechanics](https://github.com/theovidal/fisiks) ⛰️ and [fluid mechanics](https://github.com/theovidal/study-projects/tree/main/mechanics/stokes-equation-simulation) 🌊
 - 🚗 A [computer vision algorithm](https://github.com/theovidal/vehicule-vision) based on colors and shapes
 - 🚁 [UAV trajectory planner](https://github.com/theovidal/tipe) for post-earthquake reconnaissance, using topography and population densities
