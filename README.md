@@ -14,12 +14,12 @@ I keep [many repositories](https://github.com/theovidal?tab=repositories&type=so
 - 🚗 A [computer vision algorithm](https://github.com/theovidal/vehicule-vision) based on colors and shapes
 - 🚁 [UAV trajectory planner](https://github.com/theovidal/tipe) for post-earthquake reconnaissance, using topography and population densities
 - 🔦 A [3D cartography platform](https://github.com/theovidal/3d-cartography-platform), using a LiDAR scanner and remote communication to display in real time the point cloud and perform calculation
+- 🎓 ...and [many study projects](https://github.com/theovidal/study-projects), including a Tic-tac-toe in the terminal, or a Sudoko solver using SAT
 
 Older projects (high school or before) include:
 
 - 🧗‍♂️ A [climbing app](https://highest.netlify.app) to track your activity and set your goals
 - 🤖 Discord and [Telegram](https://github.com/theovidal/parcolar) bots for utilities and games
-- 🎓 ...and [many study projects](https://github.com/theovidal/study-projects), including a Tic-tac-toe in the terminal, or a Sudoko solver using SAT
 
 I sometimes write articles (in French) for [the BecauseOfProg blog](https://becauseofprog.fr) 📑
 
