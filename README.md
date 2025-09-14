@@ -2,11 +2,12 @@
 
 My name is Théo, I'm a french student in a M.Sc. in Engineering at [ENSTA](https://ensta-paris.fr/en), on the Paris-Saclay campus. On my free time, I climb, practice twisty puzzles (Rubik's Cube) and code various projects! I'm also interested in AI and Machine Learning 🧠
 
-My main programming languages are **Golang**, **Python**, **JavaScript** (with **Vue.js**), **MATLAB**, **OCaml** and **C**, I use Linux and JetBrains IDEs to code.
+My main programming languages are **Python**, **MATLAB**, **C**, **C++**, including self-taught **Golang** and **JavaScript** (mainly with **Vue.js**), and I use Linux and JetBrains IDEs to code.
 
 I keep [many repositories](https://github.com/theovidal?tab=repositories&type=source), among which my main projects are:
 
-- 💻 Machine Learning projects: [climbing routes classification](https://github.com/theovidal/beta-project) 🧗‍♂️, [water shortages prediction](https://github.com/theovidal/hickathon) (Hackathon) 💧 and [frugal AIs](https://github.com/theovidal/frugal-ai-challenge) 🍃
+- 💻 Machine Learning projects: [climbing routes classification](https://github.com/theovidal/beta-project) 🧗‍♂️,  and [frugal AIs](https://github.com/theovidal/frugal-ai-challenge) 🍃
+- 🏃‍♂️ ML Hackathons: [water shortages prediction](https://github.com/theovidal/hickathon) 💧, [LLM agent for 3D prototyping](https://github.com/theovidal/joyero-mit-hackathon) 🤖
 - 🍯 A [numerical analysis of dripping honey](https://github.com/theovidal/ipt-bouncing-honey), to conduct physics research for the [International Physicists' Tournament](https://iptnet.info)
 - 📣 Experiments and simulations to [characterise and improve room acoustics](https://github.com/theovidal/room-acoustics)
 - 🔭 Physics simulations: [solid mechanics](https://github.com/theovidal/fisiks) ⛰️ and [fluid mechanics](https://github.com/theovidal/study-projects/tree/main/mechanics/stokes-equation-simulation) 🌊
